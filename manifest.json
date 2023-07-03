@@ -1,6 +1,6 @@
 {
-    "name": "appstore",
-    "short_name": "appstore",
+    "name": "sulisong",
+    "short_name": "sulisong",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
